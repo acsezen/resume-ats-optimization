@@ -28,171 +28,154 @@ I enjoy learning new things and sharing them with others because I believe learn
 ### Linux System Development Engineer
 **iDirect** | Saint-Nicolas | September 2022 - August 2023
 
-**Core Competencies:**
-- Collaboration in Agile and Scrum environments to deliver high-quality software solutions
-- Cross-functional team engagement and project management
-- Source code debugging, performance optimization, and bottleneck mitigation
-- System management using Ansible and Puppet, with specialized adjustments to Python and Puppet scripts
-- Script development and automation with an emphasis on Bash
-
-**Linux & Server Administration:**
-- Administered CentOS servers for optimal performance and security
-- Integrated Jenkins for efficient CI/CD pipeline management
-- Managed and maintained HA Clusters using Pacemaker and Corosync, ensuring seamless uptime and resolving associated issues
-- Configured and managed Apache web servers, optimizing for performance, security, and scalability. Implemented virtual hosts, modules, and directives to cater to specific application needs
-- Implemented and managed Public Key Infrastructure (PKI) to enhance system and network security, ensuring encrypted and verified data transmission
-
-**Containerization & Version Control:**
-- Adopted Docker for streamlined application deployment and environment consistency
-- Managed version control processes using Git for seamless code collaboration
-
-**Monitoring & Database Management:**
-- Managed real-time system monitoring initiatives leveraging Grafana and InfluxDB, ensuring proactive issue detection and swift resolution
-- Operated MySQL databases while focusing on performance tuning, query optimization, and ensuring high availability
-
-**Cloud & Infrastructure Tools:**
-- Worked adeptly within the OpenStack platform, optimizing cloud tasks and functionalities
-- Utilized Terraform for infrastructure as code (IaC) to automate and manage cloud infrastructure, ensuring consistent and reliable environment provisioning
-- Worked closely with the DevOps team to troubleshoot and optimize Terraform scripts, ensuring seamless integration into CI/CD pipelines and enhancing deployment reliability
-- Leveraged Packer for automating the creation of machine images across multiple platforms, streamlining the deployment process and ensuring consistent environment setups
-- Engaged in the deployment and management of VNFM solutions, playing a pivotal role in orchestrating and automating virtualized network functions. This experience contributed to enhancing the efficiency, scalability, and reliability of network operations
-
-**Collaboration Tools:**
-- Streamlined software issue tracking and resolution processes with Jira
-- Promoted a collaborative work environment and knowledge sharing through Confluence
-
-**Training & Certifications:**
-- RedHat Kubernetes Training: Acquired in-depth knowledge on container orchestration, cluster management, and application deployment
-- RedHat OpenShift Training: Mastered platform management, containerized application integration, and deployment with Kubernetes
+• Collaborated in Agile and Scrum environments to deliver high-quality software solutions
+• Engaged in cross-functional team collaboration and project management
+• Debugged source code, optimized performance, and mitigated bottlenecks
+• Managed systems using Ansible and Puppet with specialized Python and Puppet script adjustments
+• Developed automation scripts with emphasis on Bash scripting
+• Administered CentOS servers for optimal performance and security
+• Integrated Jenkins for efficient CI/CD pipeline management
+• Managed and maintained HA Clusters using Pacemaker and Corosync, ensuring seamless uptime
+• Configured and managed Apache web servers, optimizing for performance, security, and scalability
+• Implemented virtual hosts, modules, and directives to cater to specific application needs
+• Implemented and managed Public Key Infrastructure (PKI) to enhance system and network security
+• Adopted Docker for streamlined application deployment and environment consistency
+• Managed version control processes using Git for seamless code collaboration
+• Managed real-time system monitoring initiatives leveraging Grafana and InfluxDB
+• Operated MySQL databases focusing on performance tuning, query optimization, and high availability
+• Worked within OpenStack platform, optimizing cloud tasks and functionalities
+• Utilized Terraform for infrastructure as code (IaC) to automate and manage cloud infrastructure
+• Collaborated with DevOps team to troubleshoot and optimize Terraform scripts for CI/CD pipelines
+• Leveraged Packer for automating machine image creation across multiple platforms
+• Deployed and managed VNFM solutions for orchestrating and automating virtualized network functions
+• Streamlined software issue tracking and resolution processes with Jira
+• Promoted collaborative work environment and knowledge sharing through Confluence
+• Completed RedHat Kubernetes Training for container orchestration and cluster management
+• Completed RedHat OpenShift Training for platform management and containerized application deployment
 
 ### IT Consultant
 **StartUp** | Antwerpen | December 2021 - September 2022
 
-- Consulted a software project for Live Video Streaming and Transcoding
+• Consulted on software project for Live Video Streaming and Transcoding solutions
 
 ### Linux System Engineer
 **IBS Group BVBA** | Brussels | August 2017 - November 2021
 
-- Design, Provision, Configure, Optimize and Maintain multiple Linux infrastructures, like Debian, CentOS, Ubuntu, Red Hat Enterprise Linux (RHEL), SUSE Linux Enterprise (SLES), and FreeBSD
-- Amazon Web Services (AWS) And Microsoft Azure integrations for infrastructures and applications
-
-**Built and/or maintained:**
-- Several oVirt, Proxmox, OpenNebula, VMware VCenter, Xen Project virtualization platforms
-- Server clusters (200+ servers) with Ansible simultaneously
-- AWX server on Kubernetes for customer IT team to manage Ansible playbooks
-- Dockerizing/Virtualizing of bare-metal servers
-- Monitoring platforms with Zabbix, Icinga2, LibreNMS, Cacti, Check_MK, Prometheus + Grafana
-- Redhat Satellite 6, including components Foreman, Katello, Puppet and Pulp
-- CEPH clusters for Proxmox virtualization platform
-- Several MySQL and Percona SQL server solutions with High Availability (HA) setups
-- Ubuntu MAAS for bare-metal server management
-- Ubuntu Landscape for Server and Patch Management
-- Several Proxy & Load Balancers with HAProxy, Nginx, Varnish
-- Web Application firewall with Tengine for DDOS protection
-- Kopana Groupware with LDAP integration (Multi-tenant)
-- Several bare-metal to cloud/container/VM migrations
-- Load balancing and reverse proxy solutions based on Nginx/HAProxy/Varnish
-- Web server clusters in different topologies with Apache/Nginx/Tengine
-- Complete web stacks like LAMP/LEMP
-- Hosting panels like Plesk/Cpanel/Virtualmin
-- Security and Vulnerability check-ups (Metasploit, Nmap, etc...)
-- 50+ servers cluster for high performance and low latency Live Video Streaming & Transcoding
-- Several Tvheadend (TVH) farms with IP convergence
-
-**Some of my daily tasks are:**
-- Performing Linux kernel tuning/optimization
-- Monitoring System/hardware performance
-- Monitoring Server logs
-- Performing Linux security checks
-- Installing with yum/dnf, configuring repositories and Red Hat satellite server on Linux servers, managing Multipathing software like Red Hat Linux Native multipathing, etc.
-- Configuring SUDO and granting root permission to users for performing various activities. Zones, Containers, userland configurations, etc.
-- Installation of SSH and configuration of key-based authentication, File system tuning, growing and shrinking with open source tools
-- Install and maintain backup solutions
-- Manage Data Center activities, including monitoring of third parties technicians and making sure that tickets are done in conjunction with my team on time
-- Amazon Web Services (AWS), EC2 Storage Management integration and utilization for infrastructures and applications
-- User administration setup, maintaining account, Monitor system performance
-- Creation, Installation, and administration of Red Hat Virtual machines in VMware Environment
-- Activities include user administration; startup and shutdown scripts; crontab, file system maintenance, backup scripting, and automation using Ansible and Shell scripting (bash) for various Linux systems
-- Configuring hands-free installation using Kickstart and PXE
-- Setup and configured network TCP/IP on Linux including RPC connectivity for NFS. Created mount points for Server directories, and mounted these directories on Linux Servers
-- Supporting Red Hat Cluster and MySQL databases in High Availability
-- Virtualization with VMware ESX on different HW like HP Proliant, and Dell Power Edge hardware using vCenter server
-- Build the servers from scratch, including installing RAID, and ESXi, assigning IPs, and assigning Networks to Physical machines
-- Storage management, LVM, CEPH, File system management, User account management, data backups, and user's login support
-- System Software installation and configuration of NFS shares, DHCP and LDAP
+• Designed, provisioned, configured, optimized and maintained multiple Linux infrastructures including Debian, CentOS, Ubuntu, Red Hat Enterprise Linux (RHEL), SUSE Linux Enterprise (SLES), and FreeBSD
+• Integrated Amazon Web Services (AWS) and Microsoft Azure for infrastructures and applications
+• Built and maintained several oVirt, Proxmox, OpenNebula, VMware VCenter, Xen Project virtualization platforms
+• Managed server clusters (200+ servers) with Ansible simultaneously
+• Deployed AWX server on Kubernetes for customer IT team to manage Ansible playbooks
+• Implemented Dockerizing/Virtualizing of bare-metal servers
+• Built monitoring platforms with Zabbix, Icinga2, LibreNMS, Cacti, Check_MK, Prometheus + Grafana
+• Deployed Redhat Satellite 6, including components Foreman, Katello, Puppet and Pulp
+• Configured CEPH clusters for Proxmox virtualization platform
+• Built MySQL and Percona SQL server solutions with High Availability (HA) setups
+• Implemented Ubuntu MAAS for bare-metal server management
+• Deployed Ubuntu Landscape for Server and Patch Management
+• Configured Proxy & Load Balancers with HAProxy, Nginx, Varnish
+• Implemented Web Application firewall with Tengine for DDOS protection
+• Deployed Kopana Groupware with LDAP integration (Multi-tenant)
+• Executed bare-metal to cloud/container/VM migrations
+• Implemented load balancing and reverse proxy solutions based on Nginx/HAProxy/Varnish
+• Built web server clusters in different topologies with Apache/Nginx/Tengine
+• Deployed complete web stacks like LAMP/LEMP
+• Configured hosting panels like Plesk/Cpanel/Virtualmin
+• Performed security and vulnerability check-ups using Metasploit, Nmap, and other tools
+• Built 50+ servers cluster for high performance and low latency Live Video Streaming & Transcoding
+• Deployed several Tvheadend (TVH) farms with IP convergence
+• Performed Linux kernel tuning and optimization
+• Monitored system/hardware performance and server logs
+• Conducted Linux security checks and vulnerability assessments
+• Installed and configured packages with yum/dnf, managed repositories and Red Hat satellite server
+• Managed Multipathing software including Red Hat Linux Native multipathing
+• Configured SUDO and granted root permissions for user activities
+• Installed SSH and configured key-based authentication
+• Performed file system tuning, growing and shrinking with open source tools
+• Installed and maintained backup solutions
+• Managed Data Center activities including monitoring third-party technicians
+• Integrated Amazon Web Services (AWS) EC2 Storage Management for infrastructures and applications
+• Performed user administration setup and account maintenance
+• Created, installed, and administered Red Hat Virtual machines in VMware Environment
+• Automated tasks using Ansible and Shell scripting (bash) for various Linux systems
+• Configured hands-free installation using Kickstart and PXE
+• Setup and configured network TCP/IP on Linux including RPC connectivity for NFS
+• Created mount points for server directories and mounted directories on Linux Servers
+• Supported Red Hat Cluster and MySQL databases in High Availability
+• Performed virtualization with VMware ESX on HP Proliant and Dell Power Edge hardware using vCenter server
+• Built servers from scratch including installing RAID, ESXi, assigning IPs, and configuring networks
+• Managed storage with LVM, CEPH, file system management, user account management, and data backups
+• Installed and configured system software including NFS shares, DHCP and LDAP
 
 ### IT Consultant
 **ERK Bilisim Yazilim** | Istanbul | August 2009 - July 2017
 
-**VMware:**
-Experienced in VMware vSphere ESXi 5.x/4.x, ESX 4.x/3.5 and vCenter 4/vCenter 5, VDI, vMotion, Storage vMotion, HA, DRS, Host Profiles, SRM 2.0/4.0/5.0, vApp, vCenter Converter, vCenter web plugin, VMware systems monitoring tools and APIs.
-
-Managed and provided connectivity to host and storage through IBM DS3500 storage systems (SAN). Daily monitoring of SAN. Worked with LUNs and Raids. Configuring RAID, Disk Mirroring, SAN Volume Expansion, SCSI Controller Installation.
-
-Expertise in design and implementation of virtualization solutions based on VMware Infrastructures. High understanding of resource management frameworks like the creation of resource pools, adding VMs into resource pools, and P2V and V2V conversions by using VMware Converter. Completed many P2V migrations using a VMware converter.
-
-Experienced in working with the vMotion technology, working with Storage vMotion technology. Strong knowledge of VMware HA, EVC, and VMware DRS.
-
-Strong understanding of VMware Networking concepts like the creation of vSwitches, different types of port groups, NIC Teaming and VLAN. Increasing resources like HDD, Memory, and CPU.
-
-Worked on HP Proliant, Dell Power Edge, IBM System X, and Super Micro Servers. Both with Rackmounts and Towers.
-
-**Cisco:**
-Cisco Certification CCNA with experience in a diversified work environment. Widespread knowledge of Routing, Switching, LAN/WAN, NAT, Intrusion Detection Systems and Prevention Systems (IDS and IPS), Firewall Management, IPSec and VPN Configuration, and VoIP Management.
-
-Hands-on experience with Routing Protocols like EIGRP, OSPFv2, and RIP (both v1/2). Experienced with switch functionalities and multilayer switching networks like STP, RSTP, CEF, and Ether Channel (PAgP and LACP).
-
-Redundancy Protocols like HSRP, VRRP, and Load Balancing using PAgP and LACP, and PPP over Multilink. Experience with Layer 2 and Layer 3 security features such as Authentication, Cryptography, IDS/IPS, IPSec, VPN, Firewalls, Standard and Extended Access Lists, Port Security, AAA, IBNS (802.1x)using RADIUS Server, DHCP Snooping.
-
-Worked with VLAN and VTP, Voice VLANs, VLAN Security issues, and implemented Private VLANs. Configured VoIP using Cisco Call Manager, RTP for real-time voice transfer, settings of QoS, and call controlling signalings like H323 and SIP.
-
-Ability to provide all levels of network troubleshooting and maintenance.
-
-**Microsoft:**
-Extensive experience with Windows Servers 2003/2008/2012 administration. Experience with Windows Server Provisioning, Upgrading, and Hardening. Experience with Microsoft Hyper-V Virtualization Platform.
-
-Extensive Experience with Exchange Server 2003/2007/2010. Extensive Experience Windows 2003/2008 Active Directory administration. Experience with AD Group Policies settings.
-
-Knowledge of AD technologies LDAP, Schema, Trust Relationship, DNS, DHCP, Sites Services, Replication, etc. Experience in creating new containers, new accounts, and security groups, modifying existing accounts, and implementing Group Policy in Active Directory.
-
-Experience in Virtualization working with Hyper-V. Coordinating with various other support groups both on-shore/site and off-shore for Server builds, backup, Patch Management, Incident Management, Troubleshooting, etc.
-
-**Linux (Redhat/Debian):**
-Extensive experience in Linux System Administration in Red Hat and Debian Linux. Extensive experience in Installation, configuration, and administration of RHEL5.x/6.x, Debian Linux 5.x/6.x, and day-to-day administration tasks.
-
-Implemented day-to-day tasks in Red Hat Linux including upgrading RPMs, Kernel tuning, HBA Driver, configuring SANs, Multipathing, and Logical Volume Manager(LVM). Installation of patches, security fixes, and packages on Linux servers.
-
-Providing Troubleshooting and Customer support in critical 24x7 production and development environments. Expert in automated installation, software distribution, and production deployments.
-
-Experienced in installing LAMP (Linux, Apache, MySQL, and PHP) AND LEMP (NGINX) for different applications. Expert in Installing, configuring, and maintaining DNS, NIS, NIS+, NFS, DHCP, TCP/IP.
-
-Expertise in implementation and designing disaster backup and recovery plans. Expertise in Networking (TCP/IP, Ethernet), FTP, NFS, NIS, DNS, DHCP, and RAID levels.
-
-Expert in writing Shell scripts using Bash to ease administration tasks. Solid skills in analyzing, designing, implementing, and system integration, as well as knowledge of switches, routers, and firewalls.
-
-Experienced with Automatic Configuration of system builds using Puppet and Foreman. Efficiency in installing, configuring, and implementing the RAID Technologies using various tools.
-
-Expert in Installing, configuring, and maintaining Apache, Nginx, Qmail, Postfix, and OpenVPN.
+• Managed VMware vSphere ESXi 5.x/4.x, ESX 4.x/3.5 and vCenter 4/vCenter 5 environments
+• Implemented VDI, vMotion, Storage vMotion, HA, DRS, Host Profiles, SRM 2.0/4.0/5.0 solutions
+• Utilized vApp, vCenter Converter, vCenter web plugin, VMware systems monitoring tools and APIs
+• Managed connectivity to host and storage through IBM DS3500 storage systems (SAN)
+• Performed daily SAN monitoring, worked with LUNs and RAIDs
+• Configured RAID, Disk Mirroring, SAN Volume Expansion, SCSI Controller Installation
+• Designed and implemented virtualization solutions based on VMware Infrastructures
+• Created resource pools, added VMs into resource pools, performed P2V and V2V conversions
+• Completed multiple P2V migrations using VMware converter
+• Implemented vMotion and Storage vMotion technologies
+• Applied VMware HA, EVC, and VMware DRS configurations
+• Configured VMware Networking including vSwitches, port groups, NIC Teaming and VLAN
+• Managed resources including HDD, Memory, and CPU allocation
+• Worked on HP Proliant, Dell Power Edge, IBM System X, and Super Micro Servers
+• Implemented Cisco CCNA certified routing, switching, LAN/WAN, NAT solutions
+• Configured Intrusion Detection Systems and Prevention Systems (IDS and IPS)
+• Managed firewall configurations, IPSec and VPN setup, and VoIP systems
+• Implemented routing protocols including EIGRP, OSPFv2, and RIP (v1/2)
+• Configured switch functionalities and multilayer switching networks (STP, RSTP, CEF, EtherChannel)
+• Implemented redundancy protocols (HSRP, VRRP) and load balancing using PAgP and LACP
+• Configured Layer 2 and Layer 3 security features including authentication, cryptography, IPSec, VPN
+• Implemented firewalls, access lists, port security, AAA, IBNS (802.1x) using RADIUS Server
+• Configured VLAN and VTP, Voice VLANs, implemented Private VLANs
+• Deployed VoIP using Cisco Call Manager, RTP, QoS settings, H323 and SIP protocols
+• Provided network troubleshooting and maintenance at all levels
+• Administered Windows Servers 2003/2008/2012 including provisioning, upgrading, and hardening
+• Managed Microsoft Hyper-V Virtualization Platform
+• Administered Exchange Server 2003/2007/2010 and Windows 2003/2008 Active Directory
+• Configured AD Group Policies and AD technologies (LDAP, Schema, Trust Relationship, DNS, DHCP)
+• Created containers, accounts, security groups, and implemented Group Policy in Active Directory
+• Coordinated with support groups for server builds, backup, patch management, incident management
+• Administered Red Hat and Debian Linux systems including RHEL5.x/6.x, Debian Linux 5.x/6.x
+• Implemented Red Hat Linux tasks including RPM upgrades, kernel tuning, HBA Driver configuration
+• Configured SANs, Multipathing, and Logical Volume Manager (LVM)
+• Installed patches, security fixes, and packages on Linux servers
+• Provided troubleshooting and customer support in critical 24x7 production environments
+• Performed automated installation, software distribution, and production deployments
+• Installed LAMP (Linux, Apache, MySQL, PHP) and LEMP (NGINX) stacks
+• Configured and maintained DNS, NIS, NIS+, NFS, DHCP, TCP/IP services
+• Implemented disaster backup and recovery plans
+• Managed networking protocols (TCP/IP, Ethernet), FTP, NFS, NIS, DNS, DHCP, and RAID levels
+• Developed Shell scripts using Bash for administration task automation
+• Performed system analysis, design, implementation, and system integration
+• Configured automatic system builds using Puppet and Foreman
+• Installed and configured RAID technologies using various tools
+• Maintained Apache, Nginx, Qmail, Postfix, and OpenVPN services
 
 ### IT Manager
 **Hacisalihoglu Insaat A.S.** | Istanbul | March 2007 - July 2009
 
-Build and maintain the company's IT structure.
+• Built and maintained company's complete IT infrastructure and systems
 
 ### IT Specialist
 **Marjinal A.S.** | Ankara | February 2003 - December 2004
 
-Build and maintain company's IT structure.
+• Built and maintained company's IT infrastructure and systems
 
 ### IT Sales Engineer
 **Inter Bilgisayar** | Istanbul | March 2002 - January 2003
 
-Building OEM hardware systems with software. Mostly Linux-based.
+• Built OEM hardware systems with software solutions, primarily Linux-based systems
 
 ### IT Sales Engineer
 **Gelecek A.S.** | Istanbul | September 2000 - February 2002
 
-Enterprise support for linux systems. First in my country.
+• Provided enterprise support for Linux systems (first in Turkey)
 
 ---
 
