@@ -1,0 +1,32 @@
+# Browser screenshots and temporary files
+.browser_screenshots/
+.test
+.vscode/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Personal information (if any sensitive data is added)
+*.env
+.env.local
+.env.production
+
+# Build directories
+build/
+dist/
+node_modules/
+
+# Other project files not related to resume optimization
+container_compatibility_report.md
+openhands_deployment_guide.md
