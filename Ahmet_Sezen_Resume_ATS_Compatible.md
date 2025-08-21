@@ -26,7 +26,7 @@ I enjoy learning new things and sharing them with others because I believe learn
 ## WORK EXPERIENCE
 
 ### DevOps Engineer
-**Arxus NV** | Kontich | [DATES TO BE CONFIRMED]
+**Arxus NV** | Kontich | Month YYYY - Month YYYY
 
 - Managed OpenShift Container Platform (OCP) environments for containerized application deployment and orchestration
 - Implemented and maintained ArgoCD for GitOps-based continuous deployment and application lifecycle management
