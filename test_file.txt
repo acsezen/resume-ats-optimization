@@ -1,0 +1,6 @@
+
+This is a test file created to test the str_replace_editor tool.
+It contains multiple lines of text.
+Line 3: Some more content.
+Line 4: Even more content.
+Line 5: Final line of the test file.
